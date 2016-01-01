@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            "Asaph Yuan"
 tagline:          ''
-description:      'I explore and build.'
+description:      'Developer.'
 url:              http://asaphyuan.com
 
 author:
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/asaphy/personalwebsite
