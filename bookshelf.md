@@ -8,7 +8,7 @@ title: Bookshelf
 
 |               |               |               |
 |:-------------:|:-------------:|:-------------:|
-|[!["Quiet by Susan Cain"][Quiet]](http://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/){:target="_blank"}|[!["Quiet by Susan Cain"][Quiet]](http://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/){:target="_blank"}|[!["Quiet by Susan Cain"][Quiet]](http://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/){:target="_blank"}|
+|[!["Quiet by Susan Cain"][Quiet]](http://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/){:target="_blank"}||
 
 
 ###Top 10
