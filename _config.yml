@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Asaph
+title:            "Hi I'm Asaph"
 tagline:          ''
 description:      'I explore and build.'
 url:              http://asaphyuan.com
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/asaphy/mywebsite
+  repo:           https://github.com/asaphy/personalwebsite
