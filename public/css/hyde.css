@@ -253,6 +253,7 @@ a.sidebar-nav-item:focus {
 /*Asaph's Additions*/
 table {
   margin-bottom: 1rem;
+  margin: 10%;
   width: 100%;
   font-size: 85%;
   border: 0px;
