@@ -8,7 +8,7 @@ title: Projects
 
 |               |               |
 |:-------------:|:-------------:|
-|[![Routines iOS App](/images/routines.png)](https://itunes.apple.com/us/app/routine-deck/id1070839358?ls=1&mt=8){:target="_blank"} </br>Routine Deck iOS App|[![True BU Website](/images/truebu.png)](http://truebu2015.org/){:target="_blank"} True BU Website|
+|[![Routines iOS App](/images/routines.png)](https://itunes.apple.com/us/app/routine-deck/id1070839358?ls=1&mt=8){:target="_blank"} <br>Routine Deck iOS App|[![True BU Website](/images/truebu.png)](http://truebu2015.org/){:target="_blank"} True BU Website|
 
 
 ###2014
