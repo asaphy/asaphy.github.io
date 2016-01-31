@@ -263,6 +263,7 @@ td,
 th {
   padding: .25rem .5rem;
   border: 0px;
+  text-align: center;
 }
 
 img:hover{
