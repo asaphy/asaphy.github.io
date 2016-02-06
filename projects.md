@@ -3,14 +3,14 @@ layout: page
 title: Projects
 ---
 
-###2015
+2015
 
 |               |               |
 |:-------------:|:-------------:|
 |[![Routines iOS App](/images/routines.png)](https://itunes.apple.com/us/app/routine-deck/id1070839358?ls=1&mt=8){:target="_blank"} <br>Routine Deck iOS App|[![True BU Website](/images/truebu.png)](http://truebu2015.org/){:target="_blank"}  <br>True BU Website|
 
 
-###2014
+2014
 
 |               |               |
 |:-------------:|:-------------:|
