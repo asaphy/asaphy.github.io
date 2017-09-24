@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Asaph Yuan # add your name
 author-img: me.png # add your photo
-about-author: Follower of Jesus. Son, brother, friend. Engineer. Musician. Writer.  # add description
+about-author: Follower of Jesus.<br/> Son, brother, friend. Engineer. Musician. Writer.  # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: # add your Github handle
